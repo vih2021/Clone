@@ -1,0 +1,13 @@
+{
+    "ip": "",
+    "slot": "",
+    "olt": "",
+    "onu_port": "",
+    "rate_limit": "",
+    "fsan": "",
+    "new_fsan": "",
+    "onu_model": "",
+    "new_model": "",
+    "wifi_password": "",
+    "video": ""
+}
