@@ -1,0 +1,11 @@
+{
+    "ip": "10.17.11.13",
+    "slot": "1",
+    "olt": "1",
+    "onu_port": "5",
+    "fsan": "ZNTS67BF9D50",
+    "line": "2",
+    "new_phone_number": "1234567890",
+    "new_phone_pass": "12345678",
+    "sip_server": ""
+}

@@ -1,0 +1,8 @@
+{
+    "plano_usuario": "T-G-22.600M.4000G",
+    "dslam_ip": "10.17.11.13",
+    "slot": "1",
+    "olt": "1",
+    "onu_port": "5",
+    "fsan": "ZNTS10920439"
+}

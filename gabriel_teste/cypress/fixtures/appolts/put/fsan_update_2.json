@@ -1,0 +1,13 @@
+{
+    "ip": "10.17.11.13",
+    "slot": "1",
+    "olt": "1",
+    "onu_port": "1",
+    "rate_limit": "5",
+    "fsan": "ZNTS67BF9D50",
+    "new_fsan": "ZNTS67BF9D50",
+    "onu_model": "zyxel-pmg2005",
+    "new_model": "zyxel-pmg2005",
+    "wifi_password": "8080203013171220",
+    "video": ""
+}

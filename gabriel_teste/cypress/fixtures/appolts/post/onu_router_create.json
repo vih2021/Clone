@@ -1,0 +1,10 @@
+{
+    "ip": "10.17.11.13",
+    "slot": "1",
+    "olt": "3",
+    "onu_port": "32",
+    "rate_limit": "8",
+    "fsan": "ZNTSC0D77054",
+    "onu_model": "zyxel-pmg2005",
+    "video": ""
+}

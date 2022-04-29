@@ -1,0 +1,19 @@
+{
+    "ip": "10.17.11.13",
+    "slot": "1",
+    "olt": "3",
+    "onu_port": "32",
+    "fsan": "ZNTSC0D77054",
+    "onu_model": "zyxel-pmg200",
+    "rate_limit": "8",
+    "pppoe_user": "305184.1@desktop.com.br",
+    "pppoe_password": "SP25483859",
+    "ssid": "Desktop_F4922953",
+    "wifi_password": "760705100334189",
+    "phone_number": "1234567890",
+    "phone_password": "12345678",
+    "phone_2_number": "",
+    "phone_2_password": "",
+    "video": "",
+    "sip_server": ""
+}

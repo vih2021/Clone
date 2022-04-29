@@ -30,7 +30,7 @@ export const APPOLTS = {
     VLAN: 'dados',
     CTO: '579',
     ONU_PORT: '20',
-    LINE_ID: ''
+    LINE_ID: '1'
 }
 
 export const APPXDSLTELNET = {
